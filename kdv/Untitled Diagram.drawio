@@ -20,7 +20,7 @@
           <mxGeometry height="64" width="64" x="390.2" y="120" as="geometry" />
         </mxCell>
         <mxCell id="QzuR87VrmSVK374BG5w6-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;fontColor=#B3B3B3;" value="Düğüm İşletici Kurum&lt;div&gt;(&lt;span style=&quot;&quot;&gt;GİB&lt;/span&gt;)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="100.2" x="290" y="76" as="geometry" />
+          <mxGeometry height="30" width="100.2" x="313" y="66" as="geometry" />
         </mxCell>
         <mxCell id="QzuR87VrmSVK374BG5w6-6" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#f8cecc;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/fluent-regular/1/Building_Bank.svg;strokeWidth=1;imageBackground=none;labelBorderColor=#b85450;" value="" vertex="1">
           <mxGeometry height="107" width="107" x="313.2" y="368" as="geometry" />
@@ -83,19 +83,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sMYUV4zjtO8Vwb714nl2-1" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=7;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" value="" vertex="1">
-          <mxGeometry height="50" width="60" x="253.2" y="110" as="geometry" />
+          <mxGeometry height="50" width="60" x="261" y="110" as="geometry" />
         </mxCell>
         <mxCell id="sMYUV4zjtO8Vwb714nl2-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="KDV BZ Modülü" vertex="1">
           <mxGeometry height="30" width="121.2" x="410.2" y="240" as="geometry" />
         </mxCell>
         <mxCell id="sMYUV4zjtO8Vwb714nl2-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="e-Fatura Sistemi" vertex="1">
-          <mxGeometry height="30" width="121.2" x="150" y="120" as="geometry" />
+          <mxGeometry height="30" width="121.2" x="153" y="123" as="geometry" />
         </mxCell>
         <mxCell id="sMYUV4zjtO8Vwb714nl2-4" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=7;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" value="" vertex="1">
-          <mxGeometry height="50" width="60" x="253.2" y="168" as="geometry" />
+          <mxGeometry height="50" width="60" x="261" y="164" as="geometry" />
         </mxCell>
         <mxCell id="sMYUV4zjtO8Vwb714nl2-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="e-SMM Sistemi" vertex="1">
-          <mxGeometry height="30" width="121.2" x="150" y="178" as="geometry" />
+          <mxGeometry height="30" width="121.2" x="157" y="174" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
