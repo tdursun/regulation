@@ -222,9 +222,6 @@
         <mxCell id="PNC7STy16wF83EwsZBZD-1" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/buildings/1/Bank_Finance_Building-1.svg" value="" vertex="1">
           <mxGeometry height="50" width="58.33" x="-99" y="318" as="geometry" />
         </mxCell>
-        <mxCell id="PNC7STy16wF83EwsZBZD-2" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/fluent-regular/1/Building_Retail_Money.svg" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="-11.670000000000016" y="137" as="geometry" />
-        </mxCell>
         <mxCell id="PNC7STy16wF83EwsZBZD-3" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/carbon-icons/1/Receipt.svg" value="" vertex="1">
           <mxGeometry height="48" width="48" x="-188" y="207.5" as="geometry" />
         </mxCell>
@@ -285,23 +282,17 @@
         <mxCell id="PNC7STy16wF83EwsZBZD-19" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;fontColor=#3333FF;" value="B2C İşlem" vertex="1">
           <mxGeometry height="30" width="121.2" x="-239.2" y="417.5" as="geometry" />
         </mxCell>
-        <mxCell id="PNC7STy16wF83EwsZBZD-20" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.47;dx=49.59;notch=0;" value="" vertex="1">
-          <mxGeometry height="48" width="275" x="-107.17000000000002" y="214" as="geometry" />
-        </mxCell>
-        <mxCell id="PNC7STy16wF83EwsZBZD-21" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="Entegrator" vertex="1">
-          <mxGeometry height="30" width="121.2" x="-30.269999999999982" y="114.5" as="geometry" />
-        </mxCell>
         <mxCell id="PNC7STy16wF83EwsZBZD-22" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/carbon-icons/1/Receipt.svg" value="" vertex="1">
-          <mxGeometry height="48" width="48" x="-11.670000000000016" y="255.5" as="geometry" />
+          <mxGeometry height="48" width="48" x="-25.670000000000016" y="223.5" as="geometry" />
         </mxCell>
         <mxCell id="PNC7STy16wF83EwsZBZD-23" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/carbon-pictograms/1/Receipt.svg" value="" vertex="1">
-          <mxGeometry height="64" width="64" x="31" y="255.5" as="geometry" />
+          <mxGeometry height="64" width="64" x="23" y="216.5" as="geometry" />
         </mxCell>
         <mxCell id="PNC7STy16wF83EwsZBZD-24" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="belge" vertex="1">
-          <mxGeometry height="30" width="64" x="-22" y="295" as="geometry" />
+          <mxGeometry height="30" width="64" x="-36" y="263" as="geometry" />
         </mxCell>
         <mxCell id="PNC7STy16wF83EwsZBZD-25" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="beyanname" vertex="1">
-          <mxGeometry height="30" width="64" x="36.33000000000004" y="310.5" as="geometry" />
+          <mxGeometry height="30" width="64" x="28.33000000000004" y="271.5" as="geometry" />
         </mxCell>
         <mxCell id="PNC7STy16wF83EwsZBZD-26" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="Banka/Ödeme Kuruluşu" vertex="1">
           <mxGeometry height="30" width="121.2" x="-96" y="370" as="geometry" />
@@ -323,6 +314,12 @@
         </mxCell>
         <mxCell id="PNC7STy16wF83EwsZBZD-31" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="Nihai Tüketici" vertex="1">
           <mxGeometry height="30" width="121.2" x="-127.1" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="7z8nPcB9jxwlB1m1dOvw-0" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/fluent-regular/1/Building_Retail_Money.svg;opacity=20;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="-4.399999999999977" y="136.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7z8nPcB9jxwlB1m1dOvw-1" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;fontColor=#CCCCCC;" value="Entegrator" vertex="1">
+          <mxGeometry height="30" width="121.2" x="-23" y="118" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
