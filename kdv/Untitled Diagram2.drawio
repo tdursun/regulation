@@ -372,7 +372,7 @@
           <mxGeometry height="50" width="58.33" x="104.23999999999995" y="320" as="geometry" />
         </mxCell>
         <mxCell id="StWnOinUtT0PuDeyDgmm-35" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/fluent-regular/1/Building_Retail_Money.svg;opacity=20;" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="285.90000000000003" y="67" as="geometry" />
+          <mxGeometry height="80" width="80" x="295.90000000000003" y="67" as="geometry" />
         </mxCell>
         <mxCell id="StWnOinUtT0PuDeyDgmm-40" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#f8cecc;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/fluent-regular/1/Building_Bank.svg;strokeWidth=1;imageBackground=none;labelBorderColor=#b85450;imageBorder=none;" value="" vertex="1">
           <mxGeometry height="87" width="87" x="89.89999999999998" y="236" as="geometry" />
@@ -381,7 +381,7 @@
           <mxGeometry height="70" width="70" x="94.39999999999998" y="84.5" as="geometry" />
         </mxCell>
         <mxCell id="StWnOinUtT0PuDeyDgmm-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;fontColor=#CCCCCC;" value="Entegrator" vertex="1">
-          <mxGeometry height="30" width="121.2" x="267.3" y="49.5" as="geometry" />
+          <mxGeometry height="30" width="121.2" x="277.3" y="49.5" as="geometry" />
         </mxCell>
         <mxCell id="StWnOinUtT0PuDeyDgmm-59" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="Banka/Ödeme Kuruluşu" vertex="1">
           <mxGeometry height="30" width="121.2" x="61.299999999999955" y="379" as="geometry" />
