@@ -366,7 +366,7 @@
           <mxGeometry height="30" width="100.2" x="936.8000000000001" y="238" as="geometry" />
         </mxCell>
         <mxCell id="StWnOinUtT0PuDeyDgmm-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="KDV BZ Modülü" vertex="1">
-          <mxGeometry height="30" width="121.2" x="720" y="245.5" as="geometry" />
+          <mxGeometry height="30" width="121.2" x="710" y="265.5" as="geometry" />
         </mxCell>
         <mxCell id="StWnOinUtT0PuDeyDgmm-30" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.table;opacity=90;" value="" vertex="1">
           <mxGeometry height="36" width="70" x="728.9999999999998" y="309.75" as="geometry" />
@@ -425,10 +425,10 @@
             <mxPoint x="1161.98" y="423.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MZUcBDWHHgVIb7yrHnHp-5" edge="1" parent="1" source="StWnOinUtT0PuDeyDgmm-9" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=-0.015;entryY=0.216;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" target="StWnOinUtT0PuDeyDgmm-66" value="">
+        <mxCell id="MZUcBDWHHgVIb7yrHnHp-5" edge="1" parent="1" source="StWnOinUtT0PuDeyDgmm-9" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=0.445;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" target="StWnOinUtT0PuDeyDgmm-66" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="600" y="276" />
+              <mxPoint x="770" y="160" />
             </Array>
             <mxPoint x="559.5" y="254" as="sourcePoint" />
             <mxPoint x="870.48" y="256.99" as="targetPoint" />
@@ -439,6 +439,12 @@
             <mxPoint x="159.63" y="348.5" as="sourcePoint" />
             <mxPoint x="691.61" y="351.75" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MZUcBDWHHgVIb7yrHnHp-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=0;fontSize=14;" value="&lt;ul&gt;&lt;li&gt;belgeOzetiGir&lt;/li&gt;&lt;li&gt;dönemSonuMahsuplaşma&lt;/li&gt;&lt;li&gt;hesabıAskıyaAl&lt;/li&gt;&lt;li&gt;hesabaKdvPEkle&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="670" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="MZUcBDWHHgVIb7yrHnHp-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=0;fontSize=14;" value="&lt;ul&gt;&lt;li&gt;belgeKaydet&lt;/li&gt;&lt;li&gt;beyannameGoner&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;hesabıAskıyaAl&lt;/span&gt;&lt;/li&gt;&lt;li&gt;hesabaKdvPEkle&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="158.3" y="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
