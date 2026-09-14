@@ -101,7 +101,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Page-2" id="kECZBdVdSi_7ootBMrcK">
-    <mxGraphModel dx="2134" dy="1150" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1734" dy="1150" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="5Pa5WN-bp_x3Bd4iBxKk-0" />
         <mxCell id="5Pa5WN-bp_x3Bd4iBxKk-1" parent="5Pa5WN-bp_x3Bd4iBxKk-0" />
@@ -110,9 +110,6 @@
         </mxCell>
         <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-63" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#EBEBEB;strokeColor=#B3B3B3;" value="" vertex="1">
           <mxGeometry height="269.5" width="322" x="168" y="30" as="geometry" />
-        </mxCell>
-        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-61" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.47;dx=49.59;notch=0;" value="" vertex="1">
-          <mxGeometry height="48" width="275" x="-115.17" y="164" as="geometry" />
         </mxCell>
         <mxCell id="5Pa5WN-bp_x3Bd4iBxKk-23" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=7;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" value="" vertex="1">
           <mxGeometry height="50" width="60" x="218" y="121.5" as="geometry" />
@@ -125,99 +122,6 @@
         </mxCell>
         <mxCell id="5Pa5WN-bp_x3Bd4iBxKk-27" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="e-SMM Sistemi" vertex="1">
           <mxGeometry height="30" width="121.2" x="187.4" y="238.5" as="geometry" />
-        </mxCell>
-        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-0" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/buildings/1/Bank_Finance_Building-1.svg" value="" vertex="1">
-          <mxGeometry height="50" width="58.33" x="-105" y="327" as="geometry" />
-        </mxCell>
-        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-2" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/fluent-regular/1/Building_Retail_Money.svg" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="-17.670000000000016" y="146" as="geometry" />
-        </mxCell>
-        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-7" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/carbon-icons/1/Receipt.svg" value="" vertex="1">
-          <mxGeometry height="48" width="48" x="-194" y="216.5" as="geometry" />
-        </mxCell>
-        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-8" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/carbon-pictograms/1/Receipt.svg" value="" vertex="1">
-          <mxGeometry height="64" width="64" x="-500" y="240" as="geometry" />
-        </mxCell>
-        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-9" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Linance-2494/1_Money-663.svg" value="" vertex="1">
-          <mxGeometry height="48" width="48" x="-194" y="76" as="geometry" />
-        </mxCell>
-        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-10" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Money_and_Currency-2576/Money_Bag-842.svg" value="" vertex="1">
-          <mxGeometry height="32" width="32" x="-230" y="224.5" as="geometry" />
-        </mxCell>
-        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-11" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Random_icons-2607/money-807.png" value="" vertex="1">
-          <mxGeometry height="32" width="32" x="-510" y="136" as="geometry" />
-        </mxCell>
-        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-12" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="image;html=1;image=img/lib/clip_art/finance/Credit_Card_128x128.png" value="" vertex="1">
-          <mxGeometry height="70" width="70" x="-495" y="42.25" as="geometry" />
-        </mxCell>
-        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-14" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/oci-icons/1/Customer.svg;imageBackground=#EBEBEB;" value="" vertex="1">
-          <mxGeometry height="55" width="55" x="-100" y="429.5" as="geometry" />
-        </mxCell>
-        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-15" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#f8cecc;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/fluent-regular/1/Building_Bank.svg;strokeWidth=1;imageBackground=none;labelBorderColor=#b85450;imageBorder=none;" value="" vertex="1">
-          <mxGeometry height="87" width="87" x="-100" y="-8" as="geometry" />
-        </mxCell>
-        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-35" edge="1" parent="5Pa5WN-bp_x3Bd4iBxKk-1" source="IWJWjZ8ejPJ2VaVpgvpB-39" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" target="IWJWjZ8ejPJ2VaVpgvpB-40" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-195.00000000000023" y="292.5" as="sourcePoint" />
-            <mxPoint x="-195.00000000000023" y="189.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-36" edge="1" parent="5Pa5WN-bp_x3Bd4iBxKk-1" source="IWJWjZ8ejPJ2VaVpgvpB-40" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" target="IWJWjZ8ejPJ2VaVpgvpB-15" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-160.00000000000023" y="124.42779783393507" as="sourcePoint" />
-            <mxPoint x="-50" y="107.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-39" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/fluent-regular/1/Building_Shop.svg" value="" vertex="1">
-          <mxGeometry height="70" width="70" x="-230" y="299.5" as="geometry" />
-        </mxCell>
-        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-40" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/fluent-regular/1/Building_Multiple.svg" value="" vertex="1">
-          <mxGeometry height="70" width="70" x="-230" y="139.5" as="geometry" />
-        </mxCell>
-        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-41" edge="1" parent="5Pa5WN-bp_x3Bd4iBxKk-1" source="IWJWjZ8ejPJ2VaVpgvpB-14" style="endArrow=none;html=1;rounded=0;strokeWidth=2;exitX=1;exitY=1;exitDx=0;exitDy=0;" target="IWJWjZ8ejPJ2VaVpgvpB-39" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-108.59" y="425.5" as="sourcePoint" />
-            <mxPoint x="-108.59" y="335.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-42" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/carbon-icons/1/Receipt.svg" value="" vertex="1">
-          <mxGeometry height="48" width="48" x="-124" y="92.5" as="geometry" />
-        </mxCell>
-        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-43" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Money_and_Currency-2576/Money_Bag-842.svg" value="" vertex="1">
-          <mxGeometry height="32" width="32" x="-160" y="75.5" as="geometry" />
-        </mxCell>
-        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-44" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/carbon-icons/1/Receipt.svg" value="" vertex="1">
-          <mxGeometry height="48" width="48" x="-189.8" y="390.5" as="geometry" />
-        </mxCell>
-        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-45" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.credit_card;" value="" vertex="1">
-          <mxGeometry height="30" width="48" x="-44" y="440" as="geometry" />
-        </mxCell>
-        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-46" edge="1" parent="5Pa5WN-bp_x3Bd4iBxKk-1" source="IWJWjZ8ejPJ2VaVpgvpB-0" style="endArrow=none;html=1;rounded=0;strokeWidth=2;dashed=1;strokeColor=#B3B3B3;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-1" y="367.5" as="sourcePoint" />
-            <mxPoint x="-130" y="400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-47" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;fontColor=#3333FF;" value="B2G İşlem" vertex="1">
-          <mxGeometry height="30" width="121.2" x="-226.2" y="45.5" as="geometry" />
-        </mxCell>
-        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-48" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;fontColor=#3333FF;" value="B2B İşlem" vertex="1">
-          <mxGeometry height="30" width="121.2" x="-320" y="248.5" as="geometry" />
-        </mxCell>
-        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-49" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;fontColor=#3333FF;" value="B2C İşlem" vertex="1">
-          <mxGeometry height="30" width="121.2" x="-263" y="426.5" as="geometry" />
-        </mxCell>
-        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-52" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.47;dx=49.59;notch=0;" value="" vertex="1">
-          <mxGeometry height="48" width="275" x="-113.17" y="223" as="geometry" />
-        </mxCell>
-        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-53" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="Entegrator" vertex="1">
-          <mxGeometry height="30" width="121.2" x="-36.269999999999996" y="123.5" as="geometry" />
-        </mxCell>
-        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-54" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/carbon-icons/1/Receipt.svg" value="" vertex="1">
-          <mxGeometry height="48" width="48" x="-17.67" y="264.5" as="geometry" />
-        </mxCell>
-        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-55" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/carbon-pictograms/1/Receipt.svg" value="" vertex="1">
-          <mxGeometry height="64" width="64" x="25" y="264.5" as="geometry" />
         </mxCell>
         <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-58" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.61;dx=30.18;notch=0;" value="" vertex="1">
           <mxGeometry height="36" width="70" x="260" y="165" as="geometry" />
@@ -312,14 +216,110 @@
         <mxCell id="0A3sbe7k20pFt1FM3mxu-24" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=7;fillColor=light-dark(#52AEF2,#4C6C98);fontColor=#333333;strokeColor=#666666;strokeWidth=3;" value="" vertex="1">
           <mxGeometry height="50" width="60" x="655.7" y="430" as="geometry" />
         </mxCell>
-        <mxCell id="2zqiLr9JLunxNRIUCRDq-0" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="belge" vertex="1">
-          <mxGeometry height="30" width="64" x="-28" y="304" as="geometry" />
+        <mxCell id="PNC7STy16wF83EwsZBZD-0" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.47;dx=49.59;notch=0;" value="" vertex="1">
+          <mxGeometry height="48" width="275" x="-109.17000000000002" y="155" as="geometry" />
         </mxCell>
-        <mxCell id="2zqiLr9JLunxNRIUCRDq-1" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="beyanname" vertex="1">
-          <mxGeometry height="30" width="64" x="30.33" y="319.5" as="geometry" />
+        <mxCell id="PNC7STy16wF83EwsZBZD-1" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/buildings/1/Bank_Finance_Building-1.svg" value="" vertex="1">
+          <mxGeometry height="50" width="58.33" x="-99" y="318" as="geometry" />
         </mxCell>
-        <mxCell id="2zqiLr9JLunxNRIUCRDq-2" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="Banka/Ödeme Kuruluşu" vertex="1">
-          <mxGeometry height="30" width="121.2" x="-102" y="379" as="geometry" />
+        <mxCell id="PNC7STy16wF83EwsZBZD-2" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/fluent-regular/1/Building_Retail_Money.svg" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="-11.670000000000016" y="137" as="geometry" />
+        </mxCell>
+        <mxCell id="PNC7STy16wF83EwsZBZD-3" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/carbon-icons/1/Receipt.svg" value="" vertex="1">
+          <mxGeometry height="48" width="48" x="-188" y="207.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PNC7STy16wF83EwsZBZD-4" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Linance-2494/1_Money-663.svg" value="" vertex="1">
+          <mxGeometry height="48" width="48" x="-188" y="67" as="geometry" />
+        </mxCell>
+        <mxCell id="PNC7STy16wF83EwsZBZD-5" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Money_and_Currency-2576/Money_Bag-842.svg" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="-224" y="215.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PNC7STy16wF83EwsZBZD-6" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/oci-icons/1/Customer.svg" value="" vertex="1">
+          <mxGeometry height="55" width="55" x="-94" y="420.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PNC7STy16wF83EwsZBZD-7" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#f8cecc;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/fluent-regular/1/Building_Bank.svg;strokeWidth=1;imageBackground=none;labelBorderColor=#b85450;imageBorder=none;" value="" vertex="1">
+          <mxGeometry height="87" width="87" x="-94" y="-17" as="geometry" />
+        </mxCell>
+        <mxCell id="PNC7STy16wF83EwsZBZD-8" edge="1" parent="5Pa5WN-bp_x3Bd4iBxKk-1" source="PNC7STy16wF83EwsZBZD-10" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" target="PNC7STy16wF83EwsZBZD-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-189.00000000000023" y="283.5" as="sourcePoint" />
+            <mxPoint x="-189.00000000000023" y="180.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PNC7STy16wF83EwsZBZD-9" edge="1" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-166.9958992805756" y="139.64999999999998" as="sourcePoint" />
+            <mxPoint x="-86.98000000000002" y="58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PNC7STy16wF83EwsZBZD-10" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/fluent-regular/1/Building_Shop.svg" value="" vertex="1">
+          <mxGeometry height="70" width="70" x="-224" y="290.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PNC7STy16wF83EwsZBZD-11" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/fluent-regular/1/Building_Multiple.svg" value="" vertex="1">
+          <mxGeometry height="70" width="70" x="-224" y="130.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PNC7STy16wF83EwsZBZD-12" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/carbon-icons/1/Receipt.svg" value="" vertex="1">
+          <mxGeometry height="48" width="48" x="-118" y="83.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PNC7STy16wF83EwsZBZD-13" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Money_and_Currency-2576/Money_Bag-842.svg" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="-154" y="66.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PNC7STy16wF83EwsZBZD-14" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/carbon-icons/1/Receipt.svg" value="" vertex="1">
+          <mxGeometry height="48" width="48" x="-183.8" y="381.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PNC7STy16wF83EwsZBZD-15" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.credit_card;" value="" vertex="1">
+          <mxGeometry height="30" width="48" x="-38" y="431" as="geometry" />
+        </mxCell>
+        <mxCell id="PNC7STy16wF83EwsZBZD-16" edge="1" parent="5Pa5WN-bp_x3Bd4iBxKk-1" source="PNC7STy16wF83EwsZBZD-1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;dashed=1;strokeColor=#B3B3B3;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="5" y="358.5" as="sourcePoint" />
+            <mxPoint x="-124" y="391" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PNC7STy16wF83EwsZBZD-17" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;fontColor=#3333FF;" value="B2G İşlem" vertex="1">
+          <mxGeometry height="30" width="121.2" x="-220.2" y="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PNC7STy16wF83EwsZBZD-18" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;fontColor=#3333FF;" value="B2B İşlem" vertex="1">
+          <mxGeometry height="30" width="121.2" x="-314" y="239.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PNC7STy16wF83EwsZBZD-19" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;fontColor=#3333FF;" value="B2C İşlem" vertex="1">
+          <mxGeometry height="30" width="121.2" x="-257" y="417.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PNC7STy16wF83EwsZBZD-20" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.47;dx=49.59;notch=0;" value="" vertex="1">
+          <mxGeometry height="48" width="275" x="-107.17000000000002" y="214" as="geometry" />
+        </mxCell>
+        <mxCell id="PNC7STy16wF83EwsZBZD-21" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="Entegrator" vertex="1">
+          <mxGeometry height="30" width="121.2" x="-30.269999999999982" y="114.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PNC7STy16wF83EwsZBZD-22" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/carbon-icons/1/Receipt.svg" value="" vertex="1">
+          <mxGeometry height="48" width="48" x="-11.670000000000016" y="255.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PNC7STy16wF83EwsZBZD-23" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/carbon-pictograms/1/Receipt.svg" value="" vertex="1">
+          <mxGeometry height="64" width="64" x="31" y="255.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PNC7STy16wF83EwsZBZD-24" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="belge" vertex="1">
+          <mxGeometry height="30" width="64" x="-22" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="PNC7STy16wF83EwsZBZD-25" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="beyanname" vertex="1">
+          <mxGeometry height="30" width="64" x="36.33000000000004" y="310.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PNC7STy16wF83EwsZBZD-26" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="Banka/Ödeme Kuruluşu" vertex="1">
+          <mxGeometry height="30" width="121.2" x="-96" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="PNC7STy16wF83EwsZBZD-27" edge="1" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-84.64999999999998" y="431.76" as="sourcePoint" />
+            <mxPoint x="-164" y="353.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PNC7STy16wF83EwsZBZD-28" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="Kamu Kurumu/Vakıf" vertex="1">
+          <mxGeometry height="30" width="121.2" x="-26.19999999999999" y="11.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PNC7STy16wF83EwsZBZD-29" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="Mükellef" vertex="1">
+          <mxGeometry height="30" width="87" x="-294" y="147" as="geometry" />
+        </mxCell>
+        <mxCell id="PNC7STy16wF83EwsZBZD-30" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="Mükellef" vertex="1">
+          <mxGeometry height="30" width="87" x="-296.9" y="310.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
