@@ -325,7 +325,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZZ2TAcSx_VmEIZOKzclb" name="Page-3">
-    <mxGraphModel dx="934" dy="525" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="925" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -425,14 +425,14 @@
             <mxPoint x="404.1647000000004" y="266.1" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MZUcBDWHHgVIb7yrHnHp-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=0;fontSize=14;" value="&lt;ul&gt;&lt;li&gt;belge Ozeti Gir&lt;/li&gt;&lt;li&gt;dönem Sonu Mahsuplaşma&lt;/li&gt;&lt;li&gt;CH Oluştur / Kapat&lt;/li&gt;&lt;li&gt;CH Askıya Al / Aktive Et&lt;/li&gt;&lt;li&gt;hesaba KdvP Ekle&lt;/li&gt;&lt;li&gt;düğüm işlet&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="87" width="280" x="668" y="101.25" as="geometry" />
+        <mxCell id="MZUcBDWHHgVIb7yrHnHp-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=0;fontSize=14;" value="&lt;ul&gt;&lt;li&gt;belge Ozeti Gir&lt;/li&gt;&lt;li&gt;dönem Sonu Kapanış&lt;/li&gt;&lt;li&gt;CH Oluştur / Kapat&lt;/li&gt;&lt;li&gt;CH Askıya Al / Aktive Et&lt;/li&gt;&lt;li&gt;hesaba KdvP Ekle&lt;/li&gt;&lt;li&gt;düğüm işlet&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="111" width="280" x="662" y="82" as="geometry" />
         </mxCell>
         <mxCell id="MZUcBDWHHgVIb7yrHnHp-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=0;fontSize=14;" value="&lt;ul&gt;&lt;li&gt;belge Kaydet&lt;/li&gt;&lt;li&gt;beyanname Gönder&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;KdvP satın al (ödenecek KDV için)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;KdvP hesap durumunu gör&lt;/li&gt;&lt;li&gt;kredi Hesabı Bağla&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="80" width="280" x="158.3" y="121" as="geometry" />
         </mxCell>
-        <mxCell id="MZUcBDWHHgVIb7yrHnHp-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=0;fontSize=14;" value="&lt;ul&gt;&lt;li&gt;belge Kaydet&lt;/li&gt;&lt;li&gt;beyanname Gönder&lt;/li&gt;&lt;li&gt;KdvP satın al&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="64" width="280" x="160.4" y="262" as="geometry" />
+        <mxCell id="MZUcBDWHHgVIb7yrHnHp-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=0;fontSize=14;" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;KdvYatır(B2G işleme ait)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="36" width="280" x="157.4" y="262" as="geometry" />
         </mxCell>
         <mxCell id="MZUcBDWHHgVIb7yrHnHp-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=0;fontSize=14;" value="&lt;ul&gt;&lt;li&gt;tip3 işlem Beyannamesi Gönder (Aylık)&lt;/li&gt;&lt;li&gt;tip3 İşlem KDV&#39;lerini Yatır&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="64" width="327.5" x="150" y="334" as="geometry" />
@@ -453,8 +453,8 @@
             <mxPoint x="200" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WY8m0PiaBA87FM13cBGY-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=0;fontSize=14;" value="&lt;ul&gt;&lt;li&gt;uyarı Gönder (kredi limiti yetersiz)&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="36" width="280" x="158.3" y="10" as="geometry" />
+        <mxCell id="WY8m0PiaBA87FM13cBGY-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=0;fontSize=14;" value="&lt;ul&gt;&lt;li&gt;uyarı Gönder (kredi limiti yetersiz)&lt;/li&gt;&lt;li&gt;virman Icin Mükellef Onayı Sor&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="36" width="280" x="158.3" y="2" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
