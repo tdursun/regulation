@@ -325,7 +325,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZZ2TAcSx_VmEIZOKzclb" name="Page-3">
-    <mxGraphModel dx="934" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="1625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -378,10 +378,10 @@
           <mxGeometry height="87" width="87" x="89.89999999999998" y="223" as="geometry" />
         </mxCell>
         <mxCell id="StWnOinUtT0PuDeyDgmm-44" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/fluent-regular/1/Building_Multiple.svg" value="" vertex="1">
-          <mxGeometry height="70" width="70" x="90.39999999999998" y="113.5" as="geometry" />
+          <mxGeometry height="70" width="70" x="94.39999999999998" y="84.5" as="geometry" />
         </mxCell>
         <mxCell id="StWnOinUtT0PuDeyDgmm-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;fontColor=#CCCCCC;" value="Entegrator" vertex="1">
-          <mxGeometry height="30" width="121.2" x="267.3" y="44.5" as="geometry" />
+          <mxGeometry height="30" width="121.2" x="267.3" y="49.5" as="geometry" />
         </mxCell>
         <mxCell id="StWnOinUtT0PuDeyDgmm-59" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="Banka/Ödeme Kuruluşu" vertex="1">
           <mxGeometry height="30" width="121.2" x="64.79999999999995" y="377" as="geometry" />
@@ -390,7 +390,7 @@
           <mxGeometry height="30" width="121.2" x="72.80000000000007" y="201" as="geometry" />
         </mxCell>
         <mxCell id="StWnOinUtT0PuDeyDgmm-62" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="Mükellef" vertex="1">
-          <mxGeometry height="30" width="87" x="73.39999999999998" y="92" as="geometry" />
+          <mxGeometry height="30" width="87" x="78.39999999999998" y="63" as="geometry" />
         </mxCell>
         <mxCell id="MZUcBDWHHgVIb7yrHnHp-1" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.996;exitY=0.893;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -429,19 +429,32 @@
           <mxGeometry height="87" width="280" x="668" y="101.25" as="geometry" />
         </mxCell>
         <mxCell id="MZUcBDWHHgVIb7yrHnHp-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=0;fontSize=14;" value="&lt;ul&gt;&lt;li&gt;belge Kaydet&lt;/li&gt;&lt;li&gt;beyanname Gönder&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;KdvP satın al (ödenecek KDV için)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;KdvP hesap durumunu gör&lt;/li&gt;&lt;li&gt;kredi Hesabı Bağla&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="80" width="280" x="136" y="106" as="geometry" />
+          <mxGeometry height="80" width="280" x="158.3" y="121" as="geometry" />
         </mxCell>
-        <mxCell id="MZUcBDWHHgVIb7yrHnHp-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=0;fontSize=14;" value="&lt;ul&gt;&lt;li&gt;belge Kaydet&lt;/li&gt;&lt;li&gt;beyanname Gönder&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="64" width="280" x="145" y="248" as="geometry" />
+        <mxCell id="MZUcBDWHHgVIb7yrHnHp-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=0;fontSize=14;" value="&lt;ul&gt;&lt;li&gt;belge Kaydet&lt;/li&gt;&lt;li&gt;beyanname Gönder&lt;/li&gt;&lt;li&gt;KdvP satın al&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="64" width="280" x="160.4" y="262" as="geometry" />
         </mxCell>
-        <mxCell id="MZUcBDWHHgVIb7yrHnHp-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=0;fontSize=14;" value="&lt;ul&gt;&lt;li&gt;tip3 işlem Beyannamesi Gönder (Aylık)&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="64" width="327.5" x="160.4" y="338" as="geometry" />
+        <mxCell id="MZUcBDWHHgVIb7yrHnHp-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=0;fontSize=14;" value="&lt;ul&gt;&lt;li&gt;tip3 işlem Beyannamesi Gönder (Aylık)&lt;/li&gt;&lt;li&gt;tip3 İşlem KDV&#39;lerini Yatır&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="64" width="327.5" x="150" y="334" as="geometry" />
         </mxCell>
         <mxCell id="6iBkMLVqFYkvuyznTrMV-1" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=7;fillColor=light-dark(#52AEF2,#4C6C98);fontColor=#333333;strokeColor=#666666;strokeWidth=3;" value="" vertex="1">
           <mxGeometry height="50" width="60" x="720" y="345" as="geometry" />
         </mxCell>
         <mxCell id="6iBkMLVqFYkvuyznTrMV-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=0;fontSize=14;" value="&lt;ul&gt;&lt;li&gt;düğüm işlet&lt;/li&gt;&lt;li&gt;anomali tesbiti&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="80" width="280" x="850.3" y="254" as="geometry" />
+          <mxGeometry height="80" width="280" x="852.3" y="254" as="geometry" />
+        </mxCell>
+        <mxCell id="WY8m0PiaBA87FM13cBGY-2" edge="1" parent="1" source="StWnOinUtT0PuDeyDgmm-2" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;exitX=0.25;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="StWnOinUtT0PuDeyDgmm-62" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="468.1" y="40" />
+              <mxPoint x="121.9" y="40" />
+            </Array>
+            <mxPoint x="554.1" y="6.75" as="sourcePoint" />
+            <mxPoint x="200" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WY8m0PiaBA87FM13cBGY-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=0;fontSize=14;" value="&lt;ul&gt;&lt;li&gt;uyarı Gönder (kredi limiti yetersiz)&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="36" width="280" x="179.3" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
