@@ -101,7 +101,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Page-2" id="kECZBdVdSi_7ootBMrcK">
-    <mxGraphModel dx="1949" dy="1718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1899" dy="1018" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="5Pa5WN-bp_x3Bd4iBxKk-0" />
         <mxCell id="5Pa5WN-bp_x3Bd4iBxKk-1" parent="5Pa5WN-bp_x3Bd4iBxKk-0" />
@@ -162,10 +162,10 @@
             <mxPoint x="-195.00000000000023" y="189.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-36" edge="1" parent="5Pa5WN-bp_x3Bd4iBxKk-1" source="IWJWjZ8ejPJ2VaVpgvpB-40" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" target="IWJWjZ8ejPJ2VaVpgvpB-15" value="">
+        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-36" edge="1" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-160.00000000000023" y="124.42779783393507" as="sourcePoint" />
-            <mxPoint x="-50" y="107.5" as="targetPoint" />
+            <mxPoint x="-172.9958992805756" y="148.65" as="sourcePoint" />
+            <mxPoint x="-92.98" y="67" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-39" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/fluent-regular/1/Building_Shop.svg" value="" vertex="1">
@@ -173,12 +173,6 @@
         </mxCell>
         <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-40" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/fluent-regular/1/Building_Multiple.svg" value="" vertex="1">
           <mxGeometry height="70" width="70" x="-230" y="139.5" as="geometry" />
-        </mxCell>
-        <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-41" edge="1" parent="5Pa5WN-bp_x3Bd4iBxKk-1" source="IWJWjZ8ejPJ2VaVpgvpB-14" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" target="IWJWjZ8ejPJ2VaVpgvpB-39" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-108.59" y="425.5" as="sourcePoint" />
-            <mxPoint x="-108.59" y="335.5" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="IWJWjZ8ejPJ2VaVpgvpB-42" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/carbon-icons/1/Receipt.svg" value="" vertex="1">
           <mxGeometry height="48" width="48" x="-124" y="92.5" as="geometry" />
@@ -320,6 +314,21 @@
         </mxCell>
         <mxCell id="2zqiLr9JLunxNRIUCRDq-2" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="Banka/Ödeme Kuruluşu" vertex="1">
           <mxGeometry height="30" width="121.2" x="-102" y="379" as="geometry" />
+        </mxCell>
+        <mxCell id="juY_6l_fuQBz4l5LFiu2-0" edge="1" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-90.65" y="440.76" as="sourcePoint" />
+            <mxPoint x="-170" y="362.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="juY_6l_fuQBz4l5LFiu2-1" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="Kamu Kurumu/Vakıf" vertex="1">
+          <mxGeometry height="30" width="121.2" x="-32.199999999999996" y="20.5" as="geometry" />
+        </mxCell>
+        <mxCell id="juY_6l_fuQBz4l5LFiu2-2" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="Mükellef" vertex="1">
+          <mxGeometry height="30" width="87" x="-300" y="156" as="geometry" />
+        </mxCell>
+        <mxCell id="juY_6l_fuQBz4l5LFiu2-3" parent="5Pa5WN-bp_x3Bd4iBxKk-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="Mükellef" vertex="1">
+          <mxGeometry height="30" width="87" x="-302.9" y="319.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
